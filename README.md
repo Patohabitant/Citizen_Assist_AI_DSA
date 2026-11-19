@@ -1,4 +1,3 @@
-# Citizen_Assist_AI_DSA
 Citizen Assist AI | Documentação e cidadania
 FIAP · Global Solution 2026.2 · Data Structures and Algorithms · 1CC-FEV
 Integrante	RM
